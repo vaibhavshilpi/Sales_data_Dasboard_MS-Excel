@@ -17,25 +17,18 @@ Monthly & Yearly Sales Trends
 It is designed to help business stakeholders make strategic decisions by identifying high-performing segments and potential areas for improvement.
 
 🛠️ Tools & Technologies
-Power BI / Excel / Tableau / Python
-
-Dataset: Sales and Profit Data.xlsx
-
-Data Processing: Power Query / Pandas
+MS-Excel
 
 Visualizations: Bar charts, line graphs, maps, KPIs, and slicers
 
-📁 Folder Structure
-scss
-Copy
-Edit
+
 📦Sales-Profit-Dashboard
- ┣ 📊 Dashboard Files (.pbix / .xlsx / .ipynb)
  ┣ 📁 Data (Sales and Profit Data.xlsx)
  ┣ 📁 Screenshots (dashboard preview images)
  ┗ 📄 README.md
 🖼️ Dashboard Preview
-(Add screenshots of your dashboard here)
+![Dashboard-excel](https://github.com/user-attachments/assets/91e925fd-16f5-4b98-9668-c0b7cb3925cd)
+
 
 ✅ Key Features
 Dynamic filters for Region, Segment, and Product Category
