@@ -27,7 +27,7 @@ Visualizations: Bar charts, line graphs, maps, KPIs, and slicers
  ┣ 📁 Screenshots (dashboard preview images)
  ┗ 📄 README.md
 🖼️ Dashboard Preview
-![Dashboard-excel](https://github.com/user-attachments/assets/91e925fd-16f5-4b98-9668-c0b7cb3925cd)
+![Sales_Data](https://github.com/user-attachments/assets/78f14c26-aa03-4990-bbc7-6c48b0e3ef66)
 
 
 ✅ Key Features
